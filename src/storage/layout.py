@@ -1,1 +1,1 @@
-type = "kv"
+type = ["kv", "timeseries"]
